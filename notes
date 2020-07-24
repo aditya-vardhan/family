@@ -1,0 +1,14 @@
+24July2020 Thursday:
+  learnt html tags
+  input tag 
+    useful for giving user inputs(like username, password)
+  input tag with attribute type=button 
+    useful for clicks/submit html content
+  br tag 
+    breaks line
+  img
+    useful for inserting images
+  a
+    a for anchor. useful for navigating to other pages/websites/webapps with the help of href attribute(ex: href="https://google.com")
+
+
